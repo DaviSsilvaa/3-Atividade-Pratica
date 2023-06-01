@@ -5,5 +5,7 @@ public class HelloWorld {
         String nome = "Davi Silva dos Santos";
         System.out.println(nome);
 
+        System.out.println("10");
+
     }
 }
