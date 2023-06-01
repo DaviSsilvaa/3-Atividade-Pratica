@@ -6,6 +6,8 @@ public class HelloWorld {
         System.out.println(nome);
 
         System.out.println("10");
+        int idade = Integer.parseInt(("12"));
+        System.out.println(idade);
 
     }
 }
